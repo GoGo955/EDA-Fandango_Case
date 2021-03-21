@@ -10,7 +10,16 @@ If you are planning on going out to see a movie, how well can you trust online r
 The goal is to determine if Fandango's ratings in 2015 had a bias towards rating movies better to sell more tickets.
 
 ## Parts of project:
-  Understanding the Background and Data.
-  Exploring Fandango Displayed Scores versus True User Ratings.
-  Comparison Other Sites.
-  Fandago Scores vs. All Sites.
+  1. Understanding the Background and Data.
+  2. Exploring Fandango Displayed Scores versus True User Ratings.
+  3. Comparison Other Sites.
+  4. Fandago Scores vs. All Sites.
+
+## Idea review and teaser
+
+----
+### The Data
+
+This is the data behind the story [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/) openly available on 538's github: https://github.com/fivethirtyeight/data. There are two csv files, one with Fandango Stars and Displayed Ratings, and the other with aggregate data for movie ratings from other sites, like Metacritic,IMDB, and Rotten Tomatoes.
+
+----
